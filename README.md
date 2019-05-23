@@ -5,7 +5,7 @@ Tor Iptables script is an anonymizer that sets up iptables and tor to route all 
 
 #### Dependencies:
 ```bash
-apt -y install tor && apt -y install sudo  && apt -y install python && apt -y install git && git clone https://github.com/debihard/toriptables2.git && cd toriptables2 && python toriptables2.py
+apt -y install tor && apt -y install sudo  && apt -y install python && apt -y install git && git clone https://github.com/debihard/toriptables2.git && cd toriptables2 && python toriptables2.py -l
 ```
 
 #### [Usage](https://drive.google.com/open?id=0B79r4wTVj-CZVy10Ujg5Vjl5WFk):
